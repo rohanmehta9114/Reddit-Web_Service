@@ -1,0 +1,15 @@
+database:
+
+  # the name of your JDBC driver
+  driverClass: org.hsqldb.jdbc.JDBCDriver
+
+  # the username
+  user: SA
+
+  # the password
+  password: Passw0rd
+
+  # the JDBC URL
+  url: jdbc:hsqldb:hsql://localhost/cpsc476;ifexists=true
+  
+  validationQuery: SELECT 1 FROM INFORMATION_SCHEMA.SYSTEM_USERS

@@ -1,0 +1,12 @@
+com\skimmdit\myproject\AppConfiguration.class
+com\skimmdit\dao\ArticleDao.class
+com\skimmdit\representation\ArticleRepresentation.class
+com\skimmdit\resources\UserResource.class
+com\skimmdit\dao\VoteDao.class
+com\skimmdit\representation\UserRepresentation.class
+com\skimmdit\dao\mapper\UserMapper.class
+com\skimmdit\myproject\AppAuthenticator.class
+com\skimmdit\dao\mapper\ArticleMapper.class
+com\skimmdit\resources\VoteResource.class
+com\skimmdit\resources\ArticleResource.class
+com\skimmdit\dao\UserDao.class
